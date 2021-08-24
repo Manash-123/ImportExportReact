@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function InputQuery() {
-  return <h2>This file is for Input Query</h2>;
+  return <input placeholder={"Enter your name here.."} />;
 }

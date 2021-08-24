@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function SubHeading() {
-  return <h1> This file is for SubHeading</h1>;
+  return <h3> This file is for SubHeading</h3>;
 }

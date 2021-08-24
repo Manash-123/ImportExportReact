@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component, useState } from "react";
 import "../styles.css";
 import Heading from "./Heading";
 import SubHeading from "./SubHeading";
