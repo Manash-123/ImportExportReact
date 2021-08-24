@@ -1,4 +1,19 @@
-.App {
-  font-family: sans-serif;
+h1{
+  color: #5f25e7;
   text-align: center;
+}
+
+h3{
+  color: #83c20e;
+  text-align: center;
+}
+input{
+  margin-left: 30%;
+}
+
+button{
+  color: #0ec22c;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
